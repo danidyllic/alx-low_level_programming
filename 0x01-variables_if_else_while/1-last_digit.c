@@ -1,12 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*This program assigns
-* a random number to
-*the variable n each time it is
-* executed
-*Returns 0;
-*/
+/**
+ * main - main block
+ * Description: Print statements based on the last digit of the random number.
+ * Return: 0
+ */
 int main(void)
 {
 int n;
